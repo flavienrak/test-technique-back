@@ -1,0 +1,10 @@
+# env files
+.env
+.env.production
+
+dist
+uploads
+
+/node_modules
+
+docker-compose.yml
